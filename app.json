@@ -3,9 +3,9 @@
     "name": "swifty-companions-create",
     "slug": "swifty-companions-create",
     "version": "1.0.0",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "swifty-companions",
     "userInterfaceStyle": "automatic",
     "splash": {
       "image": "./assets/images/splash.png",
